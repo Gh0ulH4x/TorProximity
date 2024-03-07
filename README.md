@@ -2,16 +2,16 @@
 ➡️
 <a href="https://github.com/hoodietramp/wiki">Documentation</a> |
     <a href="https://discord.gg/QhHe7nNRSU">Discord</a> |
-        <a href="https://github.com/hoodietramp/capNcook/wiki/Installation">Installation Guide</a>  
+        <a href="https://github.com/hoodietramp/TorProximity/wiki/Installation">Installation Guide</a>  
  ⬅️
 <!-- 
 <br>
-  <img src="static/images/pictures_for_readme/capNcook.png" alt="capNcook"> -->
+  <img src="static/images/pictures_for_readme/TorProximity.png" alt="TorProximity"> -->
 </p>
 
 <p align="center">
   <a href="https://discord.gg/QhHe7nNRSU"><img alt="Discord" src="https://img.shields.io/discord/1009084433472700489"></a>
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="capNcook">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="TorProximity">
 
 <br>
 
@@ -21,9 +21,9 @@
 
 # 🤔 What is this?
 
-capNcook is a Python Flask-based web application designed for dark web exploration. 
+TorProximity is a Python Flask-based web application designed for dark web exploration. 
 
-![capNcook](static/images/pictures_for_readme/main.png)
+![TorProximity](static/images/pictures_for_readme/main.png)
 
 > "What about anonymity?"
 
@@ -34,9 +34,9 @@ The tool employs efficient multi-threading in Python to enhance performance 🚀
 
 Live implementation of different tools and techniques to explore and do basic recon on hidden services over TOR
 
-## 📊 capNcook : First of its kind
+## 📊 TorProximity : First of its kind
 
-| **Name**                                   | ⚡ capNcook ⚡ |
+| **Name**                                   | ⚡ TorProximity ⚡ |
 | ------------------------------------------ | -------------|
 | Unifies results from multi Dark-Web Search Engines | ✅           |
 | Identify Entry/Exit Nodes In Tor Circuit   | ✅           |
@@ -78,22 +78,22 @@ Live implementation of different tools and techniques to explore and do basic re
 
 # 🎬 Getting Started
 
-If you're having trouble with setting up capNcook, [read this.](https://github.com/hoodietramp/capNcook/wiki/Common-Issues-&-Their-Solutions)
+If you're having trouble with setting up TorProximity, [read this.](https://github.com/hoodietramp/TorProximity/wiki/Common-Issues-&-Their-Solutions)
 
 ## ‼️ Important Links (Docs, Installation guide, Discord Support)
 
 | Installation Guide                                                          | Documentation                                             | Discord                                     |
 | --------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------- |
-| 📖 [Installation Guide](https://github.com/hoodietramp/capNcook/wiki/Installation) | 📚 [Documentation](https://github.com/hoodietramp/capNcook/wiki) | 🦜 [Discord](https://discord.gg/QhHe7nNRSU) |
+| 📖 [Installation Guide](https://github.com/hoodietramp/TorProximity/wiki/Installation) | 📚 [Documentation](https://github.com/hoodietramp/TorProximity/wiki) | 🦜 [Discord](https://discord.gg/QhHe7nNRSU) |
 
-## 🏃‍♀️Running capNcook
+## 🏃‍♀️Running TorProximity
 
-You can run capNcook -
+You can run TorProximity -
 
 1. Run with flask `flask run`
 2. Normal way with python3 `python3 app.py`
 
-![Gif showing capNcook running](/static/images/pictures_for_readme/running.gif)
+![Gif showing TorProximity running](/static/images/pictures_for_readme/running.gif)
 
 # 🔭 Usage Guidelines
 
@@ -131,13 +131,13 @@ You can run capNcook -
 
 Don't be afraid to contribute! We have many, many things you can do to help out. If you're trying to contribute but stuck, tag @hoodietramp, join our [discord](https://discord.gg/QhHe7nNRSU) server ✨
 
-Contributions are welcome, but ensure they align with ethical use. If you encounter issues, please report them on the [GitHub repository](https://github.com/hoodietramp/capNcook/issues).
+Contributions are welcome, but ensure they align with ethical use. If you encounter issues, please report them on the [GitHub repository](https://github.com/hoodietramp/TorProximity/issues).
 
 By doing so, you'll get your name added to the README below and get to be a part of an ever-growing project
 
 ## 💰 Financial Contributors
 
-The contributions will be used to fund not only the future of capNcook and its authors, but also Cyber Security Club at the PIET College, Panipat, India.
+The contributions will be used to fund not only the future of TorProximity and its authors, but also Cyber Security Club at the PIET College, Panipat, India.
 
 ## ✨ Contributors
 
@@ -148,7 +148,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/holmes-py"><img src="https://avatars.githubusercontent.com/u/54495695?v=4" width="100px;" alt=""/><br /><sub><b>Mr. Holmes</b></sub></a><br /><a href="#design-holmes-py" title="Design">🎨</a> <a href="#maintenance-holmes-py" title="Maintenance">🚧</a> <a href="#mentoring-holmes-py" title="Mentoring">🧑‍🏫</a> <a href="https://github.com/hoodietramp/capNcook/commits?author=holmes-py" title="Code">💻</a> <a href="#ideas-holmes-py" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/holmes-py"><img src="https://avatars.githubusercontent.com/u/54495695?v=4" width="100px;" alt=""/><br /><sub><b>Mr. Holmes</b></sub></a><br /><a href="#design-holmes-py" title="Design">🎨</a> <a href="#maintenance-holmes-py" title="Maintenance">🚧</a> <a href="#mentoring-holmes-py" title="Mentoring">🧑‍🏫</a> <a href="https://github.com/hoodietramp/TorProximity/commits?author=holmes-py" title="Code">💻</a> <a href="#ideas-holmes-py" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/0dayCTF"><img src="https://avatars.githubusercontent.com/u/44453666?v=4" width="100px;" alt=""/><br /><sub><b>0day</b></sub></a><br /><a href="#mentoring-0dayCTF" title="Mentoring">🧑‍🏫</a> <a href="#promotion-0dayCTF" title="Promotion">📣</a> <a href="#ideas-0dayCTF" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
