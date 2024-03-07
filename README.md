@@ -135,30 +135,30 @@ Contributions are welcome, but ensure they align with ethical use. If you encoun
 
 By doing so, you'll get your name added to the README below and get to be a part of an ever-growing project
 
-## 💰 Financial Contributors
+<!-- ## 💰 Financial Contributors
 
-The contributions will be used to fund not only the future of TorProximity and its authors, but also Cyber Security Club at the PIET College, Panipat, India.
+The contributions will be used to fund not only the future of TorProximity and its authors, but also Cyber Security Club at the PIET College, Panipat, India. -->
 
-## ✨ Contributors
+<!-- ## ✨ Contributors
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)): -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
+<!-- <table>
   <tr>
     <td align="center"><a href="https://github.com/holmes-py"><img src="https://avatars.githubusercontent.com/u/54495695?v=4" width="100px;" alt=""/><br /><sub><b>Mr. Holmes</b></sub></a><br /><a href="#design-holmes-py" title="Design">🎨</a> <a href="#maintenance-holmes-py" title="Maintenance">🚧</a> <a href="#mentoring-holmes-py" title="Mentoring">🧑‍🏫</a> <a href="https://github.com/hoodietramp/TorProximity/commits?author=holmes-py" title="Code">💻</a> <a href="#ideas-holmes-py" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/0dayCTF"><img src="https://avatars.githubusercontent.com/u/44453666?v=4" width="100px;" alt=""/><br /><sub><b>0day</b></sub></a><br /><a href="#mentoring-0dayCTF" title="Mentoring">🧑‍🏫</a> <a href="#promotion-0dayCTF" title="Promotion">📣</a> <a href="#ideas-0dayCTF" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
-</table>
+</table> -->
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+<!-- This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome! -->
 
 ## Disclaimer
 
