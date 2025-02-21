@@ -1,8 +1,8 @@
 <p align="center">
 ➡️
-<a href="https://github.com/hoodietramp/wiki">Documentation</a> |
+<a href="https://github.com/gh0ulh4x/wiki">Documentation</a> |
     <a href="https://discord.gg/QhHe7nNRSU">Discord</a> |
-        <a href="https://github.com/hoodietramp/TorProximity/wiki/Installation">Installation Guide</a>  
+        <a href="https://github.com/gh0ulh4x/TorProximity/wiki/Installation">Installation Guide</a>  
  ⬅️
 <!-- 
 <br>
@@ -78,13 +78,13 @@ Live implementation of different tools and techniques to explore and do basic re
 
 # 🎬 Getting Started
 
-If you're having trouble with setting up TorProximity, [read this.](https://github.com/hoodietramp/TorProximity/wiki/Common-Issues-&-Their-Solutions)
+If you're having trouble with setting up TorProximity, [read this.](https://github.com/gh0ulh4x/TorProximity/wiki/Common-Issues-&-Their-Solutions)
 
 ## ‼️ Important Links (Docs, Installation guide, Discord Support)
 
 | Installation Guide                                                          | Documentation                                             | Discord                                     |
 | --------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------- |
-| 📖 [Installation Guide](https://github.com/hoodietramp/TorProximity/wiki/Installation) | 📚 [Documentation](https://github.com/hoodietramp/TorProximity/wiki) | 🦜 [Discord](https://discord.gg/QhHe7nNRSU) |
+| 📖 [Installation Guide](https://github.com/gh0ulh4x/TorProximity/wiki/Installation) | 📚 [Documentation](https://github.com/gh0ulh4x/TorProximity/wiki) | 🦜 [Discord](https://discord.gg/QhHe7nNRSU) |
 
 ## 🏃‍♀️Running TorProximity
 
@@ -129,9 +129,9 @@ You can run TorProximity -
 
 ## ⚗️ Contributions and Issues
 
-Don't be afraid to contribute! We have many, many things you can do to help out. If you're trying to contribute but stuck, tag @hoodietramp, join our [discord](https://discord.gg/QhHe7nNRSU) server ✨
+Don't be afraid to contribute! We have many, many things you can do to help out. If you're trying to contribute but stuck, tag @hoodietramp & @gh0ulh4x, join our [discord](https://discord.gg/QhHe7nNRSU) server ✨
 
-Contributions are welcome, but ensure they align with ethical use. If you encounter issues, please report them on the [GitHub repository](https://github.com/hoodietramp/TorProximity/issues).
+Contributions are welcome, but ensure they align with ethical use. If you encounter issues, please report them on the [GitHub repository](https://github.com/gh0ulh4x/TorProximity/issues).
 
 By doing so, you'll get your name added to the README below and get to be a part of an ever-growing project
 
